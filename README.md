@@ -19,7 +19,6 @@ This was developed and tested with python 2.7+
 	pip install pyyaml
 	pip install django-tastypie
 
-
  
  Depending on the version of tastypie you have installed, you might also need to copy files in the patch folder to the $Python/dist-packages/tastype folder:
  
