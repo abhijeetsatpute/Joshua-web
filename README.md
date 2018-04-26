@@ -1,5 +1,7 @@
 This package serves as API and UI for a Joshua-decoder based translation service. Joshua-decoder is a Machine Translation ToolKit, for more details, see http://joshua-decoder.org/
 
+Apache Joshua (Incubating) is a statistical machine translation decoder for phrase-based, hierarchical, and syntax-based machine translation, written in Java.
+
 This application assumes you have the Joshua-decoder service installed and that you can call Joshua scripts.
 
 Setup
